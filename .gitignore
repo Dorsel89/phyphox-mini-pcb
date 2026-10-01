@@ -1,0 +1,32 @@
+# KiCad: lokale Einstellungen, Caches, Backups
+*.kicad_prl
+fp-info-cache
+~*.lck
+*.bak
+*-bak
+_autosave-*
+\#auto_saved_files#
+*-backups/
+.history/
+
+# Generierte Fertigungsdaten (werden aus den Quellen neu erzeugt)
+*.gbr
+*.gbrjob
+*.drl
+*.pos
+*.ipc
+*.net
+*.dsn
+*.ses
+*.rpt
+production/
+fabrication/
+outputs/
+
+# Generierte Panels (neu erzeugen mit KiKit + panel_settings.json)
+*panel*.kicad_pcb
+*panel*.kicad_pro
+*panel*.kicad_dru
+
+# Generierte 3D-Exporte der Platine
+/Keyfob_2025_nrf52832.step

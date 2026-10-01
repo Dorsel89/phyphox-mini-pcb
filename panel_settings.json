@@ -1,0 +1,39 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "3mm",
+        "vbackbone": "3mm",
+        "rows": "2",
+        "cols": "3",
+        "vbonecut": "False",
+        "hbonecut": "False",
+        "baketext": "False"
+    },
+    "tabs": {
+        "type": "fixed",
+        "hwidth": "5mm",
+        "mindistance": "10mm",
+        "vcount": "0",
+        "cutout": "2mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.6mm",
+        "spacing": "0.9mm",
+        "offset": "-0.3mm"
+    },
+    "framing": {
+        "type": "frame"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "3mm",
+        "voffset": "3mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "10mm",
+        "voffset": "3mm",
+        "opening": "2mm"
+    }
+}

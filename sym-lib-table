@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "keyfob") (type "KiCad") (uri "${KIPRJMOD}/lib/keyfob.kicad_sym") (options "") (descr ""))
+	(lib (name "phyphox-symbols") (type "KiCad") (uri "${KIPRJMOD}/lib/phyphox-symbols.kicad_sym") (options "") (descr ""))
+)
